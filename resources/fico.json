@@ -1,0 +1,20 @@
+{"frames": {
+
+"fico.png":
+{
+	"frame": {"x":5,"y":5,"w":175,"h":767},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":767},
+	"sourceSize": {"w":175,"h":767}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "fico.png",
+	"format": "RGBA8888",
+	"size": {"w":185,"h":777},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9d2f96778ab81e7b37a9a143c5b4b998:6ca806c67774a94b21346d224a974e3e:242a13ffc0ac76e2de756980ceacd8cf$"
+}
+}
