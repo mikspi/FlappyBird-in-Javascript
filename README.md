@@ -1,6 +1,7 @@
-Pixi.js Parallax Scroller Tutorial: Part 4/4
-================================
+This is a version of FlappyBird in Javascript!
 
-This is the accompanying source code for part 4 of *[Pixi.js Parallax Scroller Tutorial](http://www.yeahbutisitflash.com/?p=6938)* by *[Christopher Caleb](http://www.yeahbutisitflash.com/?page_id=2)*.
+![alt tag](http://mikspi.altervista.org/flappybird/resources/screenshot.png)
 
-Artwork by *[Marcus Gray](http://gray-marcus.wix.com/grayillustration)*.
+There are not comments because I did it in a Sunday and was looking forward to play with it :o)
+
+You can try it on http://mikspi.altervista.org/flappybird
